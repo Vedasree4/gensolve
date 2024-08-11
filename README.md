@@ -18,8 +18,8 @@ You can install the required packages using `pip`. Run the following command in 
 !pip install numpy matplotlib mpld3
 ```
 
-### For code2
-Before running the code2, you need to install the following Python packages:
+### For code2&3
+Before running the code, you need to install the following Python packages:
 
 - **pandas**: For reading CSV files and data manipulation.
 - **numpy**: For numerical operations.
